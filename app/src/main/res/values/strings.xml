@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Chicharronera</string>
+    <string name="cuadra">Ingresa A</string>
+    <string name="lineal">Ingresa B</string>
+    <string name="indep">Ingresa C</string>
+    <string name="tex">Soluciones de una Ecuación Cuadrática</string>
+    <string name="res">CALCULAR</string>
+</resources>
